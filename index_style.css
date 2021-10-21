@@ -8,6 +8,7 @@ body{
     width: 50%;
     left:0px;
     color: white;
+    max-height: 200px;
 }
 
 #intro{
@@ -76,6 +77,7 @@ body{
 #rcanvas{
     width: 50%;
     margin-left: 50%;
+    height: 400px;
 } 
 
 
