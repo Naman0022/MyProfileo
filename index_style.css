@@ -57,11 +57,21 @@ body{
   font-size: 52px;
   font-weight: 700;
   font-family: "Times New Roman", Times, serif;
-  color: #ff7777;
+  color: #ff7f50;
 }
 .title .char1:hover{
+  color: #0077ff;
+}
+.title .char2{
+  font-size: 52px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+  color: #ff7777;
+}
+.title .char2:hover{
   color: #ff6600;
 }
+
 
 #rcanvas{
     width: 50%;
